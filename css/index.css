@@ -206,6 +206,7 @@ caption {
   color: #6c757d;
   text-align: left;
   caption-side: bottom;
+  border: 1px transparent;
 }
 th {
   text-align: inherit;
